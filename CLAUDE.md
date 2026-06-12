@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-Personal blog for GitHub Pages (https://js-won.github.io), built with Jekyll and the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) via the chirpy-starter template. The theme itself lives in the `jekyll-theme-chirpy` gem — this repo only contains content and configuration, plus the `assets/lib` git submodule (chirpy-static-assets).
+Personal blog for GitHub Pages (https://js-won-robotics.github.io), built with Jekyll and the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) via the chirpy-starter template. The theme itself lives in the `jekyll-theme-chirpy` gem — this repo only contains content and configuration, plus the `assets/lib` git submodule (chirpy-static-assets).
 
 ## Commands
 

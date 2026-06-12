@@ -1,6 +1,6 @@
-# JS-Won.github.io
+# JS-Won-Robotics.github.io
 
-Personal blog of Jaeseog Won, built with [Jekyll](https://jekyllrb.com/) and the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy), deployed to GitHub Pages at <https://js-won.github.io>.
+Personal blog of Jaeseog Won, built with [Jekyll](https://jekyllrb.com/) and the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy), deployed to GitHub Pages at <https://js-won-robotics.github.io>.
 
 ## Local development
 
